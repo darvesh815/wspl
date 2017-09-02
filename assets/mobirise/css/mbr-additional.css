@@ -1735,6 +1735,40 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
+.cid-qu2MZ7E8nV {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+}
+.cid-qu2MZ7E8nV h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qu2MZ7E8nV .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-qu2MZ7E8nV .mbr-section-subtitle {
+  color: #060505;
+}
+.cid-qu2MZ7E8nV .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-qu2MZ7E8nV ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-qu2MZ7E8nV path {
+  stroke: #0f7699;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qu2MZ7E8nV .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
 .cid-qtYsuzv0IN {
   padding-top: 90px;
   padding-bottom: 90px;
