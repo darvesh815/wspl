@@ -27,8 +27,8 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#060505",
@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "cookiesAlert": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=59dcb10b60ff1200126fab78&product=sticky-share-buttons' async='async'></script>"
   },
   "pages": {
