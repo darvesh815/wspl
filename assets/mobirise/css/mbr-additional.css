@@ -1372,6 +1372,15 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qRyUAFqIlq {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-qRyUAFqIlq .mbr-text,
+.cid-qRyUAFqIlq blockquote {
+  color: #767676;
+}
 .cid-qRyRIofuEu {
   padding-top: 120px;
   padding-bottom: 60px;
